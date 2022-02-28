@@ -1,0 +1,342 @@
+
+etien@DESKTOP-N5PS76A MINGW64 ~
+$ pwd
+/c/Users/etien
+
+etien@DESKTOP-N5PS76A MINGW64 ~
+$ cd ..
+
+etien@DESKTOP-N5PS76A MINGW64 /c/Users
+$ cd ..
+
+etien@DESKTOP-N5PS76A MINGW64 /c
+$ pwd
+/c
+
+etien@DESKTOP-N5PS76A MINGW64 /c
+$ ls
+'$Recycle.Bin'/  'Call of Duty Modern Warfare'/   MSI/                    Recovery/                     adobeTemp/
+'$WinREAgent'/    Cmder/                          PerfLogs/              'Riot Games'/                  hiberfil.sys
+'$Windows.~WS'/  'Documents and Settings'@       'Program Files'/        'System Volume Information'/   pagefile.sys
+ AMD/             DumpStack.log.tmp              'Program Files (x86)'/   Users/                        swapfile.sys
+ App/             ESD/                            ProgramData/            Windows/
+
+etien@DESKTOP-N5PS76A MINGW64 /c
+$ cd Users
+
+etien@DESKTOP-N5PS76A MINGW64 /c/Users
+$ ls
+'All Users'@   Default/  'Default User'@   Public/   desktop.ini   etien/
+
+etien@DESKTOP-N5PS76A MINGW64 /c/Users
+$ cd etien
+
+etien@DESKTOP-N5PS76A MINGW64 ~
+$ pwd
+/c/Users/etien
+
+etien@DESKTOP-N5PS76A MINGW64 ~
+$ ls
+'3D Objects'/             Desktop/          'Menu Démarrer'@         NTUSER.DAT{3a612eef-92d4-11eb-b07d-f2038c6851d9}.TM.blf
+ AppData/                 Documents/        'Mes documents'@         NTUSER.DAT{3a612eef-92d4-11eb-b07d-f2038c6851d9}.TMContainer00000
+'Application Data'@       Downloads/         MicrosoftEdgeBackups/   NTUSER.DAT{3a612eef-92d4-11eb-b07d-f2038c6851d9}.TMContainer00000
+ Contacts/                Favorites/         Modèles@                OneDrive/
+ Cookies@                 Links/             Music/                  Recent@
+'Creative Cloud Files'/  'Local Settings'@   NTUSER.DAT             'Saved Games'/
+
+etien@DESKTOP-N5PS76A MINGW64 ~
+$ cd Desktop
+
+etien@DESKTOP-N5PS76A MINGW64 ~/Desktop
+$ ls
+'Adobe Animate 2021.lnk'*  'Adobe Illustrator 2021.lnk'*  'Adobe Media Encoder 2020.lnk'*  'Adobe Photoshop 2021.lnk'*
+
+etien@DESKTOP-N5PS76A MINGW64 ~/Desktop
+$ cd ..
+
+etien@DESKTOP-N5PS76A MINGW64 ~
+$ pwd
+/c/Users/etien
+
+etien@DESKTOP-N5PS76A MINGW64 ~
+$ ls
+'3D Objects'/             NTUSER.DAT{3a612eef-92d4-11eb-b07d-f2038c6851d9}.TM.blf
+ AppData/                 NTUSER.DAT{3a612eef-92d4-11eb-b07d-f2038c6851d9}.TMContainer00000000000000000001.regtrans-ms
+'Application Data'@       NTUSER.DAT{3a612eef-92d4-11eb-b07d-f2038c6851d9}.TMContainer00000000000000000002.regtrans-ms
+ Contacts/                OneDrive/
+ Cookies@                 Recent@
+'Creative Cloud Files'/  'Saved Games'/
+ Desktop/                 Searches/
+ Documents/               SendTo@
+ Downloads/               Videos/
+ Favorites/              'VirtualBox VMs'/
+ Links/                  "Voisinage d'impression"@
+'Local Settings'@        'Voisinage réseau'@
+'Menu Démarrer'@          ansel/
+'Mes documents'@         'etiennebacleapi@gmail.com Creative Cloud Files'/
+ MicrosoftEdgeBackups/    ntuser.dat.LOG1
+ Modèles@                 ntuser.dat.LOG2
+ Music/                   ntuser.ini
+ NTUSER.DAT              'poopoopydoopoop@hotmail.com Creative Cloud Files'/
+
+etien@DESKTOP-N5PS76A MINGW64 ~
+$ ls .
+'3D Objects'/             NTUSER.DAT{3a612eef-92d4-11eb-b07d-f2038c6851d9}.TM.blf
+ AppData/                 NTUSER.DAT{3a612eef-92d4-11eb-b07d-f2038c6851d9}.TMContainer00000000000000000001.regtrans-ms
+'Application Data'@       NTUSER.DAT{3a612eef-92d4-11eb-b07d-f2038c6851d9}.TMContainer00000000000000000002.regtrans-ms
+ Contacts/                OneDrive/
+ Cookies@                 Recent@
+'Creative Cloud Files'/  'Saved Games'/
+ Desktop/                 Searches/
+ Documents/               SendTo@
+ Downloads/               Videos/
+ Favorites/              'VirtualBox VMs'/
+ Links/                  "Voisinage d'impression"@
+'Local Settings'@        'Voisinage réseau'@
+'Menu Démarrer'@          ansel/
+'Mes documents'@         'etiennebacleapi@gmail.com Creative Cloud Files'/
+ MicrosoftEdgeBackups/    ntuser.dat.LOG1
+ Modèles@                 ntuser.dat.LOG2
+ Music/                   ntuser.ini
+ NTUSER.DAT              'poopoopydoopoop@hotmail.com Creative Cloud Files'/
+
+etien@DESKTOP-N5PS76A MINGW64 ~
+$ cd images
+bash: cd: images: No such file or directory
+
+etien@DESKTOP-N5PS76A MINGW64 ~
+$ cd image
+bash: cd: image: No such file or directory
+
+etien@DESKTOP-N5PS76A MINGW64 ~
+$ pwd
+/c/Users/etien
+
+etien@DESKTOP-N5PS76A MINGW64 ~
+$ cd documents
+
+etien@DESKTOP-N5PS76A MINGW64 ~/documents
+$ ls
+'Ma musique'@  'Mes images'@  'Mes vidéos'@
+
+etien@DESKTOP-N5PS76A MINGW64 ~/documents
+$ cd mes images
+bash: cd: too many arguments
+
+etien@DESKTOP-N5PS76A MINGW64 ~/documents
+$ cd Mes images
+bash: cd: too many arguments
+
+etien@DESKTOP-N5PS76A MINGW64 ~/documents
+$ ..
+bash: ..: command not found
+
+etien@DESKTOP-N5PS76A MINGW64 ~/documents
+$ .
+bash: .: filename argument required
+.: usage: . filename [arguments]
+
+etien@DESKTOP-N5PS76A MINGW64 ~/documents
+$ /
+bash: /: Is a directory
+
+etien@DESKTOP-N5PS76A MINGW64 ~/documents
+$ cd etien
+bash: cd: etien: No such file or directory
+
+etien@DESKTOP-N5PS76A MINGW64 ~/documents
+$ pwd
+/c/Users/etien/documents
+
+etien@DESKTOP-N5PS76A MINGW64 ~/documents
+$ ls ..
+'3D Objects'/             NTUSER.DAT{3a612eef-92d4-11eb-b07d-f2038c6851d9}.TM.blf
+ AppData/                 NTUSER.DAT{3a612eef-92d4-11eb-b07d-f2038c6851d9}.TMContainer00000000000000000001.regtrans-ms
+'Application Data'@       NTUSER.DAT{3a612eef-92d4-11eb-b07d-f2038c6851d9}.TMContainer00000000000000000002.regtrans-ms
+ Contacts/                OneDrive/
+ Cookies@                 Recent@
+'Creative Cloud Files'/  'Saved Games'/
+ Desktop/                 Searches/
+ Documents/               SendTo@
+ Downloads/               Videos/
+ Favorites/              'VirtualBox VMs'/
+ Links/                  "Voisinage d'impression"@
+'Local Settings'@        'Voisinage réseau'@
+'Menu Démarrer'@          ansel/
+'Mes documents'@         'etiennebacleapi@gmail.com Creative Cloud Files'/
+ MicrosoftEdgeBackups/    ntuser.dat.LOG1
+ Modèles@                 ntuser.dat.LOG2
+ Music/                   ntuser.ini
+ NTUSER.DAT              'poopoopydoopoop@hotmail.com Creative Cloud Files'/
+
+etien@DESKTOP-N5PS76A MINGW64 ~/documents
+$ pwd
+/c/Users/etien/documents
+
+etien@DESKTOP-N5PS76A MINGW64 ~/documents
+$ cd etien
+bash: cd: etien: No such file or directory
+
+etien@DESKTOP-N5PS76A MINGW64 ~/documents
+$ /etien
+bash: /etien: No such file or directory
+
+etien@DESKTOP-N5PS76A MINGW64 ~/documents
+$ /c/Users/etien
+bash: /c/Users/etien: Is a directory
+
+etien@DESKTOP-N5PS76A MINGW64 ~/documents
+$ ls
+'Ma musique'@  'Mes images'@  'Mes vidéos'@
+
+etien@DESKTOP-N5PS76A MINGW64 ~/documents
+$ cd..
+bash: cd..: command not found
+
+etien@DESKTOP-N5PS76A MINGW64 ~/documents
+$ cd ..
+
+etien@DESKTOP-N5PS76A MINGW64 ~
+$ pwd
+/c/Users/etien
+
+etien@DESKTOP-N5PS76A MINGW64 ~
+$ cd /usr/bin
+
+etien@DESKTOP-N5PS76A MINGW64 /usr/bin
+$ ls
+'[.exe'*                      git-flow-release            msys-gssapi-3.dll*            seq.exe*
+ addgnupghome*                git-flow-support            msys-hcrypto-4.dll*           setfacl.exe*
+ applygnupgdefaults*          git-flow-version            msys-heimbase-1.dll*          setmetamode.exe*
+ arch.exe*                    gitflow-common              msys-heimntlm-0.dll*          sexp-conv.exe*
+ astextplain*                 gitflow-shFlags             msys-hogweed-6.dll*           sftp.exe*
+ autopoint*                   gkill.exe*                  msys-hx509-5.dll*             sh.exe*
+ awk.exe*                     glib-compile-schemas.exe*   msys-iconv-2.dll*             sha1sum.exe*
+ b2sum.exe*                   gmondump.exe*               msys-idn2-0.dll*              sha224sum.exe*
+ backup*                      gobject-query.exe*          msys-intl-8.dll*              sha256sum.exe*
+ base32.exe*                  gpg-agent.exe*              msys-kafs-0.dll*              sha384sum.exe*
+ base64.exe*                  gpg-connect-agent.exe*      msys-krb5-26.dll*             sha512sum.exe*
+ basename.exe*                gpg-error.exe*              msys-ksba-8.dll*              shred.exe*
+ basenc.exe*                  gpg-wks-server.exe*         msys-lz4-1.dll*               shuf.exe*
+ bash.exe*                    gpg.exe*                    msys-magic-1.dll*             sleep.exe*
+ bashbug*                     gpgconf.exe*                msys-mpfr-6.dll*              sort.exe*
+ bunzip2.exe*                 gpgparsemail.exe*           msys-ncursesw6.dll*           split.exe*
+ bzcat.exe*                   gpgscm.exe*                 msys-nettle-8.dll*            ssh-add.exe*
+ bzcmp*                       gpgsm.exe*                  msys-npth-0.dll*              ssh-agent.exe*
+ bzdiff*                      gpgsplit.exe*               msys-p11-kit-0.dll*           ssh-copy-id*
+ bzegrep*                     gpgtar.exe*                 msys-pcre-1.dll*              ssh-keygen.exe*
+ bzfgrep*                     gpgv.exe*                   msys-perl5_34.dll*            ssh-keyscan.exe*
+ bzgrep*                      grep.exe*                   msys-psl-5.dll*               ssh-pageant.exe*
+ bzip2.exe*                   groups.exe*                 msys-readline8.dll*           ssh.exe*
+ bzip2recover.exe*            gsettings.exe*              msys-roken-18.dll*            sshd.exe*
+ bzless*                      gunzip*                     msys-sasl2-3.dll*             ssp.exe*
+ bzmore*                      gzexe*                      msys-serf-1-0.dll*            start*
+ c_rehash*                    gzip.exe*                   msys-smartcols-1.dll*         stat.exe*
+ captoinfo.exe*               head.exe*                   msys-sqlite3-0.dll*           stdbuf.exe*
+ cat.exe*                     hmac256.exe*                msys-ssl-1.1.dll*             strace.exe*
+ chattr.exe*                  hostid.exe*                 msys-svn_client-1-0.dll*      stty.exe*
+ chcon.exe*                   hostname.exe*               msys-svn_delta-1-0.dll*       sum.exe*
+ chgrp.exe*                   iconv.exe*                  msys-svn_diff-1-0.dll*        sync.exe*
+ chmod.exe*                   id.exe*                     msys-svn_fs-1-0.dll*          tabs.exe*
+ chown.exe*                   infocmp.exe*                msys-svn_fs_fs-1-0.dll*       tac.exe*
+ chroot.exe*                  infotocap.exe*              msys-svn_fs_util-1-0.dll*     tail.exe*
+ cksum.exe*                   install.exe*                msys-svn_fs_x-1-0.dll*        tar.exe*
+ clear.exe*                   join.exe*                   msys-svn_ra-1-0.dll*          tee.exe*
+ cmp.exe*                     kbxutil.exe*                msys-svn_ra_local-1-0.dll*    test.exe*
+ column.exe*                  kill.exe*                   msys-svn_ra_serf-1-0.dll*     tic.exe*
+ comm.exe*                    ldd.exe*                    msys-svn_ra_svn-1-0.dll*      tig.exe*
+ core_perl/                   ldh.exe*                    msys-svn_repos-1-0.dll*       timeout.exe*
+ cp.exe*                      less.exe*                   msys-svn_subr-1-0.dll*        toe.exe*
+ csplit.exe*                  lessecho.exe*               msys-svn_swig_perl-1-0.dll*   touch.exe*
+ cut.exe*                     lesskey.exe*                msys-svn_wc-1-0.dll*          tput.exe*
+ cygcheck.exe*                link.exe*                   msys-tasn1-6.dll*             tr.exe*
+ cygpath.exe*                 ln.exe*                     msys-ticw6.dll*               true.exe*
+ cygwin-console-helper.exe*   locale.exe*                 msys-unistring-2.dll*         truncate.exe*
+ d2u.exe*                     locate.exe*                 msys-uuid-1.dll*              trust.exe*
+ dash.exe*                    logname.exe*                msys-wind-0.dll*              tset.exe*
+ date.exe*                    ls.exe*                     msys-z.dll*                   tsort.exe*
+ dd.exe*                      lsattr.exe*                 mv.exe*                       tty.exe*
+ df.exe*                      mac2unix.exe*               nano.exe*                     tzset.exe*
+ diff.exe*                    md5sum.exe*                 nettle-hash.exe*              u2d.exe*
+ diff3.exe*                   minidumper.exe*             nettle-lfib-stream.exe*       umount.exe*
+ dir.exe*                     mintheme*                   nettle-pbkdf2.exe*            uname.exe*
+ dircolors.exe*               mintty.exe*                 ngettext.exe*                 uncompress*
+ dirmngr-client.exe*          mkdir.exe*                  nice.exe*                     unexpand.exe*
+ dirmngr.exe*                 mkfifo.exe*                 nl.exe*                       uniq.exe*
+ dirname.exe*                 mkgroup.exe*                nohup.exe*                    unix2dos.exe*
+ docx2txt*                    mknod.exe*                  notepad*                      unix2mac.exe*
+ docx2txt.pl*                 mkpasswd.exe*               nproc.exe*                    unlink.exe*
+ dos2unix.exe*                mktemp.exe*                 numfmt.exe*                   unzip.exe*
+ du.exe*                      mount.exe*                  od.exe*                       unzipsfx.exe*
+ dumpsexp.exe*                mpicalc.exe*                openssl.exe*                  update-ca-trust*
+ echo.exe*                    msgattrib.exe*              p11-kit.exe*                  updatedb*
+ egrep*                       msgcat.exe*                 passwd.exe*                   users.exe*
+ env.exe*                     msgcmp.exe*                 paste.exe*                    vdir.exe*
+ envsubst.exe*                msgcomm.exe*                patch.exe*                    vendor_perl/
+ ex.exe*                      msgconv.exe*                pathchk.exe*                  vi*
+ expand.exe*                  msgen.exe*                  perl.exe*                     view.exe*
+ expr.exe*                    msgexec.exe*                perl5.34.0.exe*               vim.exe*
+ factor.exe*                  msgfilter.exe*              pinentry-w32.exe*             vimdiff.exe*
+ false.exe*                   msgfmt.exe*                 pinentry.exe*                 vimtutor*
+ fgrep*                       msggrep.exe*                pinky.exe*                    watchgnupg.exe*
+ fido2-assert.exe*            msginit.exe*                pkcs1-conv.exe*               wc.exe*
+ fido2-cred.exe*              msgmerge.exe*               pldd.exe*                     which.exe*
+ fido2-token.exe*             msgunfmt.exe*               pluginviewer.exe*             who.exe*
+ file.exe*                    msguniq.exe*                pr.exe*                       whoami.exe*
+ find.exe*                    msys-2.0.dll*               printenv.exe*                 winpty-agent.exe*
+ findssl.sh*                  msys-apr-1-0.dll*           printf.exe*                   winpty-debugserver.exe*
+ fmt.exe*                     msys-aprutil-1-0.dll*       profiler.exe*                 winpty.dll*
+ fold.exe*                    msys-asn1-8.dll*            ps.exe*                       winpty.exe*
+ funzip.exe*                  msys-assuan-0.dll*          psl-make-dafsa*               wordpad*
+ gapplication.exe*            msys-bz2-1.dll*             psl.exe*                      xargs.exe*
+ gawk-5.0.0.exe*              msys-cbor-0.8.dll*          ptx.exe*                      xgettext.exe*
+ gawk.exe*                    msys-com_err-1.dll*         pwd.exe*                      xxd.exe*
+ gdbus.exe*                   msys-crypt-0.dll*           readlink.exe*                 yat2m.exe*
+ gencat.exe*                  msys-crypto-1.1.dll*        realpath.exe*                 yes.exe*
+ getconf.exe*                 msys-edit-0.dll*            rebase.exe*                   zcat*
+ getemojis*                   msys-expat-1.dll*           rebaseall*                    zcmp*
+ getfacl.exe*                 msys-ffi-7.dll*             recode-sr-latin.exe*          zdiff*
+ getopt.exe*                  msys-fido2-1.dll*           regtool.exe*                  zegrep*
+ gettext.exe*                 msys-gcc_s-seh-1.dll*       reset.exe*                    zfgrep*
+ gettext.sh*                  msys-gcrypt-20.dll*         restore*                      zforce*
+ gettextize*                  msys-gettextlib-0-21.dll*   rm.exe*                       zgrep*
+ gio-querymodules.exe*        msys-gettextsrc-0-21.dll*   rmdir.exe*                    zipgrep*
+ git-flow*                    msys-gio-2.0-0.dll*         rnano.exe*                    zipinfo.exe*
+ git-flow-bugfix              msys-glib-2.0-0.dll*        runcon.exe*                   zless*
+ git-flow-config              msys-gmodule-2.0-0.dll*     rview.exe*                    zmore*
+ git-flow-feature             msys-gmp-10.dll*            rvim.exe*                     znew*
+ git-flow-hotfix              msys-gnutls-30.dll*         scp.exe*
+ git-flow-init                msys-gobject-2.0-0.dll*     sdiff.exe*
+ git-flow-log                 msys-gpg-error-0.dll*       sed.exe*
+
+etien@DESKTOP-N5PS76A MINGW64 /usr/bin
+$ cd
+
+etien@DESKTOP-N5PS76A MINGW64 ~
+$ pwd
+/c/Users/etien
+
+etien@DESKTOP-N5PS76A MINGW64 ~
+$ cd ~/Music
+
+etien@DESKTOP-N5PS76A MINGW64 ~/Music
+$ pwd
+/c/Users/etien/Music
+
+etien@DESKTOP-N5PS76A MINGW64 ~/Music
+$ ls
+desktop.ini
+
+etien@DESKTOP-N5PS76A MINGW64 ~/Music
+$ cd
+
+etien@DESKTOP-N5PS76A MINGW64 ~
+$ pwd
+/c/Users/etien
+
+etien@DESKTOP-N5PS76A MINGW64 ~
+$
+Display all 5108 possibilities? (y or n)^C
+
+etien@DESKTOP-N5PS76A MINGW64 ~
+$
